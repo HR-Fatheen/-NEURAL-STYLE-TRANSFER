@@ -77,8 +77,7 @@ Task 3/
 
 
 ##  Output Result
-
-
+![Image](https://github.com/user-attachments/assets/abcc9fd6-88f3-4ff4-b975-0de8fddcce94)
 
 ## Notes
 
