@@ -50,7 +50,7 @@ The result successfully reflected **artistic texture and color from the style im
 * Task 3               
  ─ README.md                
  ─ coding.ipynb             
- ─ Installation & Setup
+ ─ Installation & Setup  
  ─ Sample Inputs & Output
 
 ## How It Works
@@ -62,7 +62,7 @@ The result successfully reflected **artistic texture and color from the style im
 5. **Visualize output** with `matplotlib`.
 
 
-## 📌 Parameters Used
+## Parameters Used
 
 | Parameter         | Value     |
 |------------------|-----------|
