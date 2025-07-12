@@ -47,14 +47,11 @@ The result successfully reflected **artistic texture and color from the style im
 
 ## Files Structure
 
-Task 3
-│
-├── content.jpg               # Input content image
-├── style.jpg                 # Input style image
-├── output.jpg                # Final stylized output image
-├── coding.ipynb              # Main Jupyter Notebook with code
-├── README.md                 # This README file
-
+* Task 3               
+ ─ README.md                
+ ─ coding.ipynb             
+ ─ Installation & Setup
+ ─ Sample Inputs & Output
 
 ## How It Works
 
