@@ -47,7 +47,7 @@ The result successfully reflected **artistic texture and color from the style im
 
 ## Files Structure
 
-Task 3/
+Task 3
 │
 ├── content.jpg               # Input content image
 ├── style.jpg                 # Input style image
